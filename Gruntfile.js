@@ -33,8 +33,6 @@ module.exports = function(grunt) {
           dest: 'snapshots/',
           hashed: false,
           puppeteerScript: 'basic'
-          // selector: 'head'
-          // hashPrefix: '!'
         }
       }
     },
